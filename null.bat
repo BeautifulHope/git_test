@@ -1,1 +1,3 @@
-git push origin HEAD:refs/for/master
+git push
+git status
+git config remote.origin.push HEAD:refs/for/master
